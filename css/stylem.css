@@ -1,0 +1,30 @@
+
+
+#word{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+  
+}
+
+#answer{
+    margin-right: 200px;
+    margin-left: 570px;
+    height: 400px;
+    width: 400px;
+    background-color: darkcyan;
+    
+}
+ 
+#questionB{
+    font-size: 30px;
+    color: #F8F8F8;
+    background-color: darkcyan;
+    border: none;
+    padding: .5em 1em;
+    width: 80%;
+    max-width: 15em;
+    margin-top: 1em;
+    margin-right: 200px;
+    margin-left: 570px;
+}
