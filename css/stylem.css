@@ -1,5 +1,11 @@
+.magic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
 
-
+    
+}
 #word{
     text-align: center;
     font-size: 40px;
@@ -8,8 +14,8 @@
 }
 
 #answer{
-    margin-right: 200px;
-    margin-left: 570px;
+    /* margin-right: 200px;
+    margin-left: 570px; */
     height: 400px;
     width: 400px;
     background-color: darkcyan;
@@ -22,9 +28,14 @@
     background-color: darkcyan;
     border: none;
     padding: .5em 1em;
-    width: 80%;
     max-width: 15em;
     margin-top: 1em;
-    margin-right: 200px;
-    margin-left: 570px;
+    /* margin-right: 200px;
+    margin-left: 570px; */
+}
+footer{
+    text-align: center;
+    padding: 5em 1em;
+    margin-right: 300px;
+    margin-left: 200px;
 }

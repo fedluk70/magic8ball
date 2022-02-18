@@ -8,7 +8,7 @@ questionB.addEventListener("click", function(){
             //Create an “ask” button (this will run the function that you will insert the images into using javascript)
             let magicball = getRandomIntInclusive(1, 20);
             console.log(magicball);
-            answer.src= `../img/magic8ball_ ${magicball}.png`;
+            answer.src= `../img/magic8ball_${magicball}.png`;
             });
 
 function getRandomIntInclusive(min, max){
