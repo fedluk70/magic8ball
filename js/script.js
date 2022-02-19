@@ -18,9 +18,7 @@ function getRandomIntInclusive(min, max){
 }
 
 /*Create a div with an id of “answers” that you will insert the images into using js
-
 Creat an “ask” function that when clicked, will choose as random 8ball image and insert it into your “answers” div
 Replace the input field with the user’s question when displaying the answer
-
 Style your page any way you like
 Activate Github Pages for your project */
